@@ -1,0 +1,6 @@
+Saya membuat aplikasi sederhana untuk transfer file dari hp ke pc atau sebaliknya dengan menggunakan hotspot hp.
+Aplikasi ini berbasis web sehingga untuk menggunakanya diperlukan browser.
+
+link: https://github.com/badruti94/kirimfile
+
+Panduan sudah ada di github nya.
